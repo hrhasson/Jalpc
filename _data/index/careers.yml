@@ -1,30 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Company A
+- name: University of Rochester
+    detail: Ph.D student in Physics 
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: 
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: expected Summer 2023
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Gourdain lab
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: UT Austin
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: B.S. in Physics, Honors Astronomy
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Dean's Scholars honors program
     i18n: company_b_job
   icon: fa-plus-square
