@@ -25,9 +25,7 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: fa-star
     - name: fa-star
-    - name: fa-star
   skill_icon2:
-    - name: fa-star
     - name: fa-star
     - name: fa-star
   desc: Experimental astronomer and lover of creative arts. Ph.D. student at University of Rochester studying plasma physics under Prof. Pierre Gourdain.  # Describe yourself.
