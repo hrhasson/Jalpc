@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "What is a plasma"
+title: "What is a plasma?"
 date:   2017-12-21
-desc: "Wherein I explain what the heck all the fuss is about this hot air."
+desc: "Wherein I explain what the heck all the fuss is about this hot gas."
 keywords: "plasma,physics,science,astronomy"
 categories: [physics]
 tags: [plasma,physics,astronomy]
