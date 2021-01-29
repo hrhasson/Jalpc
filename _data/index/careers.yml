@@ -16,7 +16,7 @@
   present: true
 
 - name:
-    detail: UT Austin
+    detail: University of Texas at Austin
     i18n: company_b
   desc:
     detail: B.S. in Physics, Honors Astronomy. Researched dwarf galaxies under K. McQuinn and gamma ray detectors under E. Liang (Rice).
