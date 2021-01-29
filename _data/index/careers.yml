@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: University of Rochester
-    detail: "PhD student in Physics" 
+- name: 
+    detail: University of Rochester
 #     i18n: company_a
   desc:
-    detail: 
+    detail: Ph.D student in Physics
 #     i18n: company_a_desc
   date:
     detail: Expected Summer 2023
