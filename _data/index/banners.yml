@@ -2,8 +2,11 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/header_one.jpg
+- src: landing/tile_galaxies.png
   title: first banner image
 
-- src: landing/header_two.jpg
+- src: landing/shadowgraph_sidebyside.png
   title: second banner image
+  
+- src: landing/LYSO_matrix.jpg
+  title: third banner image
