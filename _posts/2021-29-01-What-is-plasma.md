@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "What is a plasma?"
-date:   2017-12-21
-desc: "Wherein I explain what the heck all the fuss is about this hot gas."
+date:   2021-1-29
+desc: "What is a plasma and why does anyone study it?"
 keywords: "plasma,physics,science,astronomy"
 categories: [physics]
 tags: [plasma,physics,astronomy]
-icon: icon-physics
+icon: fa-star
 ---
 
 ## Hello there
