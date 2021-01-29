@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: University of Rochester
-    detail: Ph.D student in Physics 
+    detail: PhD student in Physics 
     i18n: company_a
   desc:
     detail: 
