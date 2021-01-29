@@ -4,8 +4,7 @@
     detail: University of Rochester
 #     i18n: company_a
   desc:
-    detail: Ph.D student in Physics 
-    | Researching astrophysical jets through scaled laboratory experiments on pulsed-power drivers.
+    detail: Ph.D student in Physics | Researching astrophysical jets through scaled laboratory experiments on pulsed-power drivers.
 #     i18n: company_a_desc
   date:
     detail: Expected Summer 2023
@@ -20,8 +19,7 @@
     detail: University of Texas at Austin
 #     i18n: company_b
   desc:
-    detail: B.S. in Physics, Honors Astronomy 
-    | Researched dwarf galaxies under K. McQuinn and gamma ray diagnostics under E. Liang (Rice).
+    detail: B.S. in Physics, Honors Astronomy | Researched dwarf galaxies under K. McQuinn and gamma ray diagnostics under E. Liang (Rice).
 #     i18n: company_b_desc
   date:
     detail: Jun. 2018
