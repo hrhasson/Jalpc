@@ -1,22 +1,18 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Jet experiment
+  url: https://ieeexplore.ieee.org/abstract/document/9199827
+  img: /static/assets/img/landing/Particle-path-Bz.png
+  desc: An experimental scheme to study astrophysical jet dynamics through a scaled pulsed-power experiment.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
+- name: Plasma diagnostics
   url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  img: /static/assets/img/landing/interferogram_screw2_crop.jpg
+  desc: I have worked on a variety of plasma diagnostics, including gamma ray spectrometry, thomson scattering, and laser interferometry.
+
+- name: Python for high schoolers
+  gh_user: hrhasson
+  repo: python-for-high-schoolers
+  img: /static/assets/img/landing/Unfiltered_Interferogram.png
+  desc: This is a 3-day crash course on python for new programmers, as well as a 3-module course on filtering data with Fourier transforms.
