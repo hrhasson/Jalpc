@@ -3,10 +3,7 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/tile_galaxies.png
-  title: first banner image
-
-- src: landing/Shot_10024.bmp
-  title: second banner image
+  title: JKB 134, JKB 32, JKB 137, and JKB19 galaxies
   
 - src: landing/05253_t2_preshota.jpg
-  title: third banner image
+  title: preshot of shoadowgraphy image
