@@ -1,30 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: University of Rochester
-    detail: PhD student in Physics 
-    i18n: company_a
+    detail: "PhD student in Physics" 
+#     i18n: company_a
   desc:
     detail: 
-    i18n: company_a_desc
+#     i18n: company_a_desc
   date:
-    detail: expected Summer 2023
-    i18n: company_a_date
+    detail: Expected Summer 2023
+#     i18n: company_a_date
   job:
     detail: Gourdain lab
-    i18n: company_a_job
+#     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
     detail: University of Texas at Austin
-    i18n: company_b
+#     i18n: company_b
   desc:
     detail: B.S. in Physics, Honors Astronomy. Researched dwarf galaxies under K. McQuinn and gamma ray detectors under E. Liang (Rice).
-    i18n: company_b_desc
+#     i18n: company_b_desc
   date:
     detail: Jun. 2018
-    i18n: company_b_date
+#     i18n: company_b_date
   job:
     detail: Dean's Scholars honors program
-    i18n: company_b_job
+#     i18n: company_b_job
   icon: fa-plus-square
