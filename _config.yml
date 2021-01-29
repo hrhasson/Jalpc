@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: AstroHasson
+title: H. Hasson
 description: Hannah Hasson's personal website
 keywords: plasma, physics, astronomy, science, STEM, feminism, comedy
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-star
     - name: fa-star
-  desc: Experimental astronomer and lover of creative arts. Ph.D. student at University of Rochester studying plasma physics under Prof. Pierre Gourdain.  # Describe yourself.
+  desc: Plasma physicist and lover of creative arts. Ph.D. student at University of Rochester studying laboratory astrophysics under Prof. Pierre Gourdain.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
