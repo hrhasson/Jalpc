@@ -1,5 +1,12 @@
 ---
+layout: post
 title: "What is a plasma"
+date:   2017-12-21
+desc: "Wherein I explain what the heck all the fuss is about this hot air."
+keywords: "plasma,physics,science,astronomy"
+categories: [physics]
+tags: [plasma,physics,astronomy]
+icon: icon-physics
 ---
 
 ## Hello there
