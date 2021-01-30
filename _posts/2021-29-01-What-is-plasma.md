@@ -5,7 +5,7 @@ date:   2021-1-29
 desc: "What is a plasma and why does anyone study it?"
 keywords: "plasma,physics,science,astronomy"
 categories: [physics]
-tags: [plasma,physics,astronomy]
+tags: [plasma, astronomy, stars]
 icon: fa-star
 published = false
 ---
