@@ -1,18 +1,12 @@
 # links section data
-- last_name: Name 1
+- last_name: Gourdain Lab
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc:
+  website: http://gourdain.pas.rochester.edu/
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Hannah
+  first_name: Hasson
+#   desc: Support Jalpc
+#   website: http://www.jarrekk.com/donate/
+  email: hhasson@ur.rochester.edu
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
